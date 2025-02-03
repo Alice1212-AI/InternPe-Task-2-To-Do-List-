@@ -6,13 +6,13 @@ A simple To-Do List web application built using HTML, CSS, and JavaScript. This 
 
 # Features:
 
-Add Tasks: Users can add tasks using the input field and the "Add" button.
+✅Add Tasks: Users can add tasks using the input field and the "Add" button.
 
-Mark as Completed: Tasks can be checked off by clicking on them, which strikes through the task and marks it as completed.
+✅Mark as Completed: Tasks can be checked off by clicking on them, which strikes through the task and marks it as completed.
 
-Delete Tasks: Users can delete tasks by clicking the '×' icon next to them.
+✅Delete Tasks: Users can delete tasks by clicking the '×' icon next to them.
 
-Local Storage: The tasks are stored locally, so the list persists after page reloads or browser restarts.
+✅Local Storage: The tasks are stored locally, so the list persists after page reloads or browser restarts.
 
 # Technologies Used:
 
@@ -54,6 +54,12 @@ Copy
     
     └── checked1.png
     
-Demo:
+# Demo:
 
-You can try out the To-Do List App live by visiting the demo link (if hosted)
+![image](https://github.com/user-attachments/assets/3a090e79-a590-4d84-aaf2-a173bacd6473)
+
+![Uploading image.png…]()
+
+
+
+
